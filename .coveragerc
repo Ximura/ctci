@@ -2,4 +2,5 @@
 omit =
     *__init__*
     */usr/local/lib*
+    *.tox*
     *test*
